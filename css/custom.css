@@ -117,3 +117,7 @@ body {
       -webkit-transform: scaleY(1.0);
     }
   }
+
+  .site-footer {
+    text-align: center;
+  }
